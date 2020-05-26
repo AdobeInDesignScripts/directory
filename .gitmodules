@@ -1,0 +1,3 @@
+[submodule "chainGREP"]
+	path = chainGREP
+	url = git@github.com:AdobeInDesignScripts/chainGREP.git
