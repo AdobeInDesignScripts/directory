@@ -28,7 +28,6 @@ npm install myProject --save
 
 ### Usage
 
-```
 
 ### Contributing
 
