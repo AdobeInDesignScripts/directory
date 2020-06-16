@@ -2,6 +2,16 @@
 
 This repository contains scripts contributed by the InDesign scripting community. These are free scripts and comply with Open Source protocols. 
 
+## Awesome Open Source InDesign Scripts
+
+- **[Unicode Injector](https://github.com/AdobeInDesignScripts/UnicodeInjectorForInDesign/blob/master/dist/UnicodeInjector.jsx)** by [Kris Coppieters](https://github.com/zwettemaan) - Use keyboard shortcuts to easily insert one or more Unicode characters into InDesign text. [Instructions](https://github.com/AdobeInDesignScripts/UnicodeInjectorForInDesign/blob/master/dist/README.TXT)
+
+- **[Layer Cloner](https://github.com/AdobeInDesignScripts/indesign-copy-layer/blob/master/layer-cloner.jsx)** by [Paolo Agostinetto](https://github.com/redokun) - This script allows you to copy one layer and its elements from one document to another. [Instructions](https://github.com/AdobeInDesignScripts/indesign-copy-layer/blob/master/README.md). [Redokun website](https://redokun.com)
+
+- **[InCopy Note Alert](https://github.com/AdobeInDesignScripts/InCopyNoteAlert)** by [Kris Coppieters](https://github.com/zwettemaan) - A startup script for Adobe® InDesign® and Adobe InCopy® which alerts to the presence of notes. [Instructions](https://github.com/AdobeInDesignScripts/InCopyNoteAlert/blob/master/README.md). 
+
+
+
 ## Goals
 
 The goal of the InDesign Community Script Project is to make InDesign users aware of the the power of scripting in InDesign and the many free scripts already available. Adobe would like to connect users with the scripting community to explore scripts for sale or to hire a scripter to develop a custom script and improve your workflow. The repository will be useful to individuals trying to learn more about scripting.
