@@ -18,7 +18,7 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Break Text Thread](https://github.com/AdobeInDesignScripts/Break-Text-Thread)** by [Ariel Wallen](https://github.com/Id-Extras) - An InDesign script that makes breaking the thread between text frames easy. [Instructions](https://github.com/AdobeInDesignScripts/Break-Text-Thread/blob/master/README.md) and [Website](http://www.id-extras.com/)
 
-- **[Copy Paste Coordinates](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates)** by [Kris Coppieters](https://github.com/zwettemaan) - Script to copy-paste coordinates onto page items [Instructions](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates/blob/master/README.md) and [Website](http://www.rorohiko.com/)
+- **[Copy Paste Coordinates](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates)** by [Kris Coppieters](https://github.com/zwettemaan) - Script to copy-paste coordinates onto page items. [Instructions](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates/blob/master/README.md) and [Website](http://www.rorohiko.com/)
 
 ## Goals
 
