@@ -16,15 +16,17 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Break Text Thread](https://github.com/AdobeInDesignScripts/Break-Text-Thread)** by [Ariel Wallen](https://github.com/Id-Extras) - An InDesign script that makes breaking the thread between text frames easy. [Instructions](https://github.com/AdobeInDesignScripts/Break-Text-Thread/blob/master/README.md) and [Website](http://www.id-extras.com/)
 
+- **[InCopy Note Alert](https://github.com/AdobeInDesignScripts/InCopyNoteAlert)** by [Kris Coppieters](https://github.com/zwettemaan) - A startup script for Adobe® InDesign® and Adobe InCopy® which alerts to the presence of notes. [Instructions](https://github.com/AdobeInDesignScripts/InCopyNoteAlert/blob/master/README.md) and [Website](http://www.rorohiko.com/)
+
 - **[Copy Paste Coordinates](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates)** by [Kris Coppieters](https://github.com/zwettemaan) - Script to copy-paste coordinates onto page items. [Instructions](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates/blob/master/README.md) and [Website](http://www.rorohiko.com/)
 
 - **[Invert Selection](https://github.com/AdobeInDesignScripts/byLFC_invert_selection)** by [Luis Felipe Corullón](https://github.com/lfcorullon) - script to invert the selection in InDesign document. [Instructions](https://github.com/AdobeInDesignScripts/byLFC_invert_selection/blob/master/README.md) and [Website](http://scripts.corullon.com.br)
 
-- **[InCopy Note Alert](https://github.com/AdobeInDesignScripts/InCopyNoteAlert)** by [Kris Coppieters](https://github.com/zwettemaan) - A startup script for Adobe® InDesign® and Adobe InCopy® which alerts to the presence of notes. [Instructions](https://github.com/AdobeInDesignScripts/InCopyNoteAlert/blob/master/README.md) and [Website](http://www.rorohiko.com/)
+
 
 ## Goals
 
-The goal of the InDesign Community Script Project is to make InDesign users aware of the the power of scripting in InDesign and the many free scripts already available. Adobe would like to connect users with the scripting community to explore scripts for sale or to hire a scripter to develop a custom script and improve your workflow. The repository will be useful to individuals trying to learn more about scripting.
+The goal of the InDesign Community Script Project is to make InDesign users aware of the the power of scripting in InDesign and the many free scripts available. Adobe would like to connect users with the scripting community to explore scripts for sale or to hire a scripter to develop a custom script and improve your workflow. The repository will be useful to individuals trying to learn more about scripting.
 
 ## Non-Goals
 
