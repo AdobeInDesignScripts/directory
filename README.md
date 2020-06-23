@@ -20,6 +20,10 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Copy Paste Coordinates](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates)** by [Kris Coppieters](https://github.com/zwettemaan) - Script to copy-paste coordinates onto page items. [Instructions](https://github.com/AdobeInDesignScripts/InDesignCopyPasteCoordinates/blob/master/README.md) and [Website](http://www.rorohiko.com/)
 
+- **[Chain Grep](https://github.com/AdobeInDesignScripts/chainGREP)** by [Gregor Fellenz](https://github.com/grefel) - Chain InDesign GREP Queries to new Scripts. [Instructions](https://github.com/AdobeInDesignScripts/chainGREP/blob/master/README.md) and [Website](http://www.publishingx.de/)
+
+- **[Clear Overrides](https://github.com/AdobeInDesignScripts/clearOverrides)** by [Gregor Fellenz](https://github.com/grefel) - Clear style overrides from InDesign Text, Tables or Objects. [Instructions](https://github.com/AdobeInDesignScripts/clearOverrides/blob/master/README.md) and [Website](http://www.publishingx.de/)
+
 - **[Invert Selection](https://github.com/AdobeInDesignScripts/byLFC_invert_selection)** by [Luis Felipe Corullón](https://github.com/lfcorullon) - script to invert the selection in InDesign document. [Instructions](https://github.com/AdobeInDesignScripts/byLFC_invert_selection/blob/master/README.md) and [Website](http://scripts.corullon.com.br)
 
 
