@@ -41,7 +41,6 @@ The repository is not intended to be comprehensive. Adobe may not be aware of sc
 See Adobe's Help page for further information about installing and running scripts:
 https://helpx.adobe.com/indesign/using/scripting.html#community_scripts
 
-
 ## Contributing Scripts
 
 Adobe welcomes contributions from scripters are welcomed! Please email Adobe at indesignscripts@adobe.com with details about the script you would like to submit. Adobe will review your proposal and try to respond in 72 hours. Adobe will review the script for overall usefufulness and security
@@ -63,3 +62,7 @@ Adobe welcomes contributions from scripters are welcomed! Please email Adobe at 
 ### Licensing
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information. Scripters can choose either the MIT or GNU open Source licenses and must provide them with their script. 
+
+### Code of Conduct
+
+See Code of Conduct file for more information.
