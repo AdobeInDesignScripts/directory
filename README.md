@@ -55,7 +55,7 @@ Adobe welcomes contributions from scripters are welcomed! Please email Adobe at 
     Place the License terms in a file called License in the folder of the script
     Include the License header in the script
 6. Adobe may have questions or requests to modify
-7. If Adobe selects your script to be included in Adobe's InDesign Community Script Repository, we will create a branch and copy the script. Adobe will maintain the links to community scripts on our Scripting Help page
+7. If Adobe selects your script to be included in Adobe's InDesign Community Script Repository, we will create a fork and copy the script. Adobe will maintain the links to community scripts on our Scripting Help page
 8. If you make updates to your script, notify Adobe and submit a pull request
 
 
