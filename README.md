@@ -43,7 +43,7 @@ https://helpx.adobe.com/indesign/using/scripting.html#community_scripts
 
 ## Contributing Scripts
 
-Adobe welcomes contributions from scripters are welcomed! Please email Adobe at indesignscripts@adobe.com with details about the script you would like to submit. Adobe will review your proposal and try to respond in 72 hours. Adobe will review the script for overall usefufulness and security
+Adobe welcomes contributions from scripters are welcomed! Please email Adobe at scripts@adobe.com with details about the script you would like to submit. Adobe will review your proposal and try to respond in 72 hours. Adobe will review the script for overall usefufulness and security
 
 ### Requirements to Contribute
 1. Provide a link to your script in your own Github repository
