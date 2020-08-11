@@ -30,6 +30,10 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Renumbering Endnote References](https://github.com/AdobeInDesignScripts/adobe-community-scripts/tree/master/update-note-references)** by [Peter Kahrel](https://github.com/Typefi-Systems) - Script creates endnotes whose references do not update automatically when you add or remove endnotes. [Instructions](https://github.com/Typefi-Systems/adobe-community-scripts/blob/master/update-note-references/update-endnote-references.md) and [Website](https://www.typefi.com/resources/do-more-with-scripting/)
 
+- **[Size Thing to Page](https://github.com/AdobeInDesignScripts/Size_Thing_To_Page)** by [Olav Kvern](https://www.siliconpublishing.com/blog/free-indesign-scripts) - Resizes the current selection such as an image to the size of the page. [Instructions](https://github.com/AdobeInDesignScripts/Size_Thing_To_Page/blob/master/README.md) and [Website](https://www.siliconpublishing.com/blog/free-indesign-scripts)
+
+- **[Size Page to Thing](https://github.com/AdobeInDesignScripts/Size_Page_To_Thing)** by [Olav Kvern](https://www.siliconpublishing.com/blog/free-indesign-scripts) - Resizes the page to the size of the current selection such as an image. [Instructions](https://github.com/AdobeInDesignScripts/Size_Page_To_Thing/blob/master/README.md) and [Website](https://www.siliconpublishing.com/blog/free-indesign-scripts)
+
 ## Goals
 
 The goal of the InDesign Community Script Project is to make InDesign users aware of the the power of scripting in InDesign and the many free scripts available. Adobe would like to connect users with the scripting community to explore scripts for sale or to hire a scripter to develop a custom script and improve your workflow. The repository will be useful to individuals trying to learn more about scripting.
