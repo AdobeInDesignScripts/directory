@@ -26,6 +26,8 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Invert Selection](https://github.com/AdobeInDesignScripts/byLFC_invert_selection)** by [Luis Felipe Corullón](https://github.com/lfcorullon) - script to invert the selection in InDesign document. [Instructions](https://github.com/AdobeInDesignScripts/byLFC_invert_selection/blob/master/README.md) and [Website](http://scripts.corullon.com.br)
 
+- **[Layer Cloner](https://github.com/AdobeInDesignScripts/indesign-copy-layer)** by [Paolo Agostinetto](https://github.com/agopaul) - This script allows you to copy one layer and its elements from one document to anothe. [Instructions](https://github.com/AdobeInDesignScripts/indesign-copy-layer/blob/master/README.md) and [Website](https://redokun.com/)
+
 - **[End Notes to End of Book Notes](https://github.com/AdobeInDesignScripts/adobe-community-scripts/tree/master/endnotes-to-end-of-book-notes)** by [Peter Kahrel](https://github.com/Typefi-Systems) - Script to invert the selection in InDesign document. [Instructions](https://github.com/Typefi-Systems/adobe-community-scripts/tree/master/endnotes-to-end-of-book-notes) and [Website](https://www.typefi.com/resources/do-more-with-scripting/)
 
 - **[Renumbering Endnote References](https://github.com/AdobeInDesignScripts/adobe-community-scripts/tree/master/update-note-references)** by [Peter Kahrel](https://github.com/Typefi-Systems) - Script creates endnotes whose references do not update automatically when you add or remove endnotes. [Instructions](https://github.com/Typefi-Systems/adobe-community-scripts/blob/master/update-note-references/update-endnote-references.md) and [Website](https://www.typefi.com/resources/do-more-with-scripting/)
