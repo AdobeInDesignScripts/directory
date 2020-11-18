@@ -12,9 +12,9 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Get x-Height](https://github.com/AdobeInDesignScripts/get-x-height)** by [Roland Dreger](https://github.com/RolandDreger) - determine the x-height of a text passage. [Instructions](https://github.com/RolandDreger/get-x-height/blob/master/README.md) and [Website](https://www.rolanddreger.net/de)
 
-- **[Snap Margins to Text Frame](https://github.com/AdobeInDesignScripts/Snap-Margins-to-Text-Frame)** by [Ariel Wallen](https://github.com/Id-Extras) - A script to modify the document's margins throughout to match the selected text frame. [Instructions](https://github.com/AdobeInDesignScripts/Snap-Margins-to-Text-Frame/blob/master/README.md) and [Website](http://www.id-extras.com/)
+- **[Snap Margins to Text Frame](https://github.com/AdobeInDesignScripts/Snap-Margins-to-Text-Frame)** by [Ariel Walden](https://github.com/Id-Extras) - A script to modify the document's margins throughout to match the selected text frame. [Instructions](https://github.com/AdobeInDesignScripts/Snap-Margins-to-Text-Frame/blob/master/README.md) and [Website](http://www.id-extras.com/)
 
-- **[Break Text Thread](https://github.com/AdobeInDesignScripts/Break-Text-Thread)** by [Ariel Wallen](https://github.com/Id-Extras) - An InDesign script that makes breaking the thread between text frames easy. [Instructions](https://github.com/AdobeInDesignScripts/Break-Text-Thread/blob/master/README.md) and [Website](http://www.id-extras.com/)
+- **[Break Text Thread](https://github.com/AdobeInDesignScripts/Break-Text-Thread)** by [Ariel Walden](https://github.com/Id-Extras) - An InDesign script that makes breaking the thread between text frames easy. [Instructions](https://github.com/AdobeInDesignScripts/Break-Text-Thread/blob/master/README.md) and [Website](http://www.id-extras.com/)
 
 - **[InCopy Note Alert](https://github.com/AdobeInDesignScripts/InCopyNoteAlert)** by [Kris Coppieters](https://github.com/zwettemaan) - A startup script for Adobe® InDesign® and Adobe InCopy® which alerts to the presence of notes. [Instructions](https://github.com/AdobeInDesignScripts/InCopyNoteAlert/blob/master/README.md) and [Website](http://www.rorohiko.com/)
 
