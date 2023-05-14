@@ -6,7 +6,7 @@ This repository contains scripts contributed by the InDesign scripting community
 
 - **[Unicode Injector](https://github.com/AdobeInDesignScripts/UnicodeInjectorForInDesign)** by [Kris Coppieters](https://github.com/zwettemaan) - Use keyboard shortcuts to easily insert one or more Unicode characters into InDesign text. [Instructions](https://github.com/AdobeInDesignScripts/UnicodeInjectorForInDesign/blob/master/dist/README.TXT) and [Website](http://www.rorohiko.com/)
 
-- **[Insert Typographer Quote](https://github.com/AdobeInDesignScripts/InsertTypographerQuote)** by [Stefan Rakete](https://github.com/indesignscript) - Use keyboard shortcuts to add defined typographic quotes before and after the selected text. [Instructions](https://github.com/AdobeInDesignScripts/InsertTypographerQuote/blob/master/README.md) and [Website](http://http://www.indesignscript.de)
+- **[Insert Typographer Quote](https://github.com/AdobeInDesignScripts/InsertTypographerQuote)** by [Stefan Rakete](https://github.com/indesignscript) - Use keyboard shortcuts to add defined typographic quotes before and after the selected text. [Instructions](https://github.com/AdobeInDesignScripts/InsertTypographerQuote/blob/master/README.md) and [Website](https://www.indesignscript.de)
 
 - **[Layer Cloner](https://github.com/AdobeInDesignScripts/indesign-copy-layer)** by [Paolo Agostinetto](https://github.com/redokun) - This script allows you to copy one layer and its elements from one document to another. [Instructions](https://github.com/AdobeInDesignScripts/indesign-copy-layer/blob/master/README.md) and [Website](https://redokun.com)
 
